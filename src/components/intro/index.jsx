@@ -14,7 +14,7 @@ const Intro = ({ data }) => {
             <div className="container">
                 <div className="row">
                     <div className="col-12">
-                        <div className="slider-content">
+                        {/* <div className="slider-content">
                             <p className="text animated delay1">
                                 {data.subTitle}
                             </p>
@@ -32,7 +32,7 @@ const Intro = ({ data }) => {
                                 classOption="btn btn-outline-secondary animated delay2"
                                 text="our services"
                             />
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
