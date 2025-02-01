@@ -15,7 +15,7 @@ const MedicalFeatureContainer = () => {
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col-lg-12 col-xl-8">
+                    <div className="">
                         <div
                             className="row icon-box-style"
                             data-aos="fade-up"

@@ -19,7 +19,7 @@ const AccordionWrap = () => {
                     Confirm Your Diagnosis Before Treatment: If you are
                     concerned if your doctor is correct or have questions about
                     your treatment plan, a second opinion could answer many of
-                    your questions. Conflicting Diagnosis: SeconOpinion can help
+                    your questions. Conflicting Diagnosis: Second Opinion can
                     you figure out the correct diagnosis if you have received
                     different medical opinions. Peace of Mind: Worrying about
                     your health shouldn't keep you up at night. Having an expert

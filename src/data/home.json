@@ -41,7 +41,7 @@
         "healthFeature": [
             {
                 "id": 1,
-                "icon": "icon icofont-stethoscope-alt",
+                "icon": "/",
                 "title": "Diagnose",
                 "subTitle": "Examination & Diagnosis"
             },
@@ -63,39 +63,8 @@
         "medicalFeature": [
             {
                 "id": 1,
-                "icon": "icofont-prescription",
-                "title": "Medical Counseling",
-                "excerpt": "Our experienced specialists provide personalized guidance, ensuring patients receive the right diagnosis, treatment plans, and lifestyle recommendations."
-            },
-            {
-                "id": 2,
-                "icon": "icofont-doctor-alt",
-                "title": "Top Level Doctors",
-                "excerpt": "From general practitioners to specialized experts, we ensure that every patient receives the best treatment backed by medical excellence and compassion."
-            },
-            {
-                "id": 3,
-                "icon": "icofont-microscope",
-                "title": "Medical Facilites",
-                "excerpt": "We provide state-of-the-art medical facilities equipped with the latest technology for accurate diagnostics, advanced treatments, and patient comfort."
-            },
-            {
-                "id": 4,
-                "icon": "icofont-ambulance-cross",
-                "title": "24 Hours Services",
-                "excerpt": "Whether it's urgent medical attention, emergency treatment, or round-the-clock patient monitoring, our team is always prepared to assist."
-            },
-            {
-                "id": 5,
-                "icon": "icofont-blood",
-                "title": "Personal Services",
-                "excerpt": " From one-on-one consultations to customized rehabilitation programs, we ensure a patient-centric approach to well-being."
-            },
-            {
-                "id": 6,
-                "icon": "icofont-paralysis-disability",
-                "title": "Dedicated Patient Care",
-                "excerpt": "Our commitment to dedicated patient care goes beyond treatment. We focus on compassionate support, ensuring physical, emotional, and psychological well-being. "
+                "title": "focus is on you",
+                "excerpt": "SecOpp is a tele-medicine platform that provides real-time medical evaluations from top-notch physicians practicing in the United States.  Our platform provides you access to some of the best possible medical opinions while saving you time, money, and peace of mind."
             }
         ]
     },
@@ -161,30 +130,6 @@
                 "excerpt": "“It’s been an absolute pleasure to work with hope, <br /> their response to our brief exceeded expectations and the execution was efficient, professional and very reassuring. I’d fully recommend theme.”",
                 "name": "Kristina Castle",
                 "location": "Golden Lotus Apartment, HasThemes, BNA"
-            }
-        ]
-    },
-    {
-        "brand": [
-            {
-                "id": 1,
-                "image": "./img/brand-logo/01.png"
-            },
-            {
-                "id": 2,
-                "image": "./img/brand-logo/02.png"
-            },
-            {
-                "id": 3,
-                "image": "./img/brand-logo/03.png"
-            },
-            {
-                "id": 4,
-                "image": "./img/brand-logo/04.png"
-            },
-            {
-                "id": 5,
-                "image": "./img/brand-logo/05.png"
             }
         ]
     },
