@@ -10,7 +10,7 @@ const AppointmentContainer = () => {
                         <div className="col-12">
                             <div className="appointment-form">
                                 <SectionTitle
-                                    subTitle="We Alway Ready Helps you"
+                                    subTitle="We Always Ready Helps you"
                                     title="<span>Book An</span> Appointment"
                                 />
                                 <AppointmentForm />

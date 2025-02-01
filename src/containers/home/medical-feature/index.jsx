@@ -9,7 +9,7 @@ const MedicalFeatureContainer = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <SectionTitle
-                            subTitle="Why Choose hope Medical"
+                            subTitle="Why Choose Second OpinionMedical"
                             title="<span>The Best</span> For Your Health"
                         />
                     </div>
@@ -25,7 +25,7 @@ const MedicalFeatureContainer = () => {
                                 HomeData[3].medicalFeature.map(
                                     (single, key) => {
                                         return (
-                                            <div key={key} className="col-md-6">
+                                            <div key={key} className="col-md-7">
                                                 <MedicalFeature
                                                     key={key}
                                                     data={single}

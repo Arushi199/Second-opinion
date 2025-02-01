@@ -13,7 +13,7 @@
                 "title": "hotline 24/7",
                 "info": "+0123-45-67-890"
             },
-           {
+            {
                 "id": 3,
                 "icon": "icofont-envelope",
                 "title": "email us",
@@ -47,13 +47,13 @@
             },
             {
                 "id": 2,
-                "icon": "icon icofont-brain-alt",
+                "icon": "",
                 "title": "15+",
                 "subTitle": "Average Years of Experience"
             },
             {
                 "id": 3,
-                "icon": "icon icofont-paralysis-disability",
+                "icon": "",
                 "title": "24-48+",
                 "subTitle": "Hour Appointments"
             }
@@ -63,8 +63,8 @@
         "medicalFeature": [
             {
                 "id": 1,
-                "title": "focus is on you",
-                "excerpt": "SecOpp is a tele-medicine platform that provides real-time medical evaluations from top-notch physicians practicing in the United States.  Our platform provides you access to some of the best possible medical opinions while saving you time, money, and peace of mind."
+                "title": "Web-Based Medical Services in the United States",
+                "content": "Web-based medical services have changed health care in the United States. Telemedicine enables patients and doctors to communicate at a distance, providing a bypass to face-to-face meetings. This is a blessing for persons living in the countryside or in a situation of reduced mobility. These facilities enable patients to receive care from home.\n\nThe idea behind virtual doctor services is straightforward. Patients communicate with licensed physicians through video or telephone. This enables real-time consultations, diagnoses, and treatment plans. Various online medical consultations are available including:\n\n• Primary care consultations\n• Specialty care consultations\n• Urgent care consultations\n• Mental health consultations\n\nTelemedicine offers many advantages. It increases the amount of healthcare access, decreases waiting time and cost. With these services, patients can access care anytime, anywhere. It has been a major change in the healthcare industry and allows patients to take greater control over their health."
             }
         ]
     },
@@ -75,7 +75,6 @@
                 "image": "./img/team/01.jpg",
                 "name": "Ashish Shah, MD",
                 "excerpt": "Foot and Ankle Orthopedic Surgeon Postdoctoral Fellowship at University of Pennsylvania Hospital"
-                
             },
             {
                 "id": 2,
@@ -87,31 +86,50 @@
                 "id": 3,
                 "image": "./img/team/03.jpg",
                 "name": "Nilesh Chaudhari,MD",
-                "excerpt":"Orthopedic Surgeon and Oncologist Fellowship in Musculoskeletal Oncology at Rutgers New Jersey Medical School"
+                "excerpt": "Orthopedic Surgeon and Oncologist Fellowship in Musculoskeletal Oncology at Rutgers New Jersey Medical School"
             },
             {
                 "id": 4,
                 "image": "./img/team/04.jpg",
                 "name": "Sakthivel Rajan Rajaram Manoharan,MD",
-                "excerpt":"Orthopedic Clinic at UAB Hospital Spine Surgeon Fellowship at Ohio State University Medical Center"
+                "excerpt": "Orthopedic Clinic at UAB Hospital Spine Surgeon Fellowship at Ohio State University Medical Center"
             },
             {
                 "id": 5,
                 "image": "./img/team/05.jpg",
                 "name": "Srinath Kamineni, MD",
-                "excerpt":"Shoulder and Elbow Surgeon Fellowship in Elbows at the Mayo ClinicAdditional"
+                "excerpt": "Shoulder and Elbow Surgeon Fellowship in Elbows at the Mayo ClinicAdditional"
             },
             {
                 "id": 6,
                 "image": "./img/team/06.jpg",
                 "name": "Viral V. Jain, MD",
-                "excerpt":"Pediatric Spine Surgeon Fellowship in Pediatric Orthopedics and Spine Surgery at Cincinnati Children’s Hospital Medical Center"
+                "excerpt": "Pediatric Spine Surgeon Fellowship in Pediatric Orthopedics and Spine Surgery at Cincinnati Children’s Hospital Medical Center"
             },
+
             {
                 "id": 7,
                 "image": "./img/team/07.jpg",
                 "name": "Naranje Sameer, MD",
-                "excerpt":"Knee and Hip Surgeon Fellowship in Adult Hip and Knee Reconstruction at University of Minnesota"
+                "excerpt": "Knee and Hip Surgeon Fellowship in Adult Hip and Knee Reconstruction at University of Minnesota"
+            },
+            {
+                "id": 8,
+                "image": "./img/team/08.jpg",
+                "name": "Khaleel Ashraf, MD, MBBS, DMRD, FACP",
+                "excerpt": "Oncologist Fellowship in Hematology/Oncology and Bone Marrow Transplant at UAB"
+            },
+            {
+                "id": 9,
+                "image": "./img/team/09.jpg",
+                "name": "Susmitha Nimmagadda, MD",
+                "excerpt": "Oncologist Fellowship in Hematology / Oncology at UAB"
+            },
+            {
+                "id": 10,
+                "image": "./img/team/10.jpg",
+                "name": "Naresh Bellam, MD, MBBS",
+                "excerpt": "Oncologist Fellowship in Hematology/Oncology at UAB"
             }
         ]
     },
@@ -150,7 +168,12 @@
                 "title": "Standard",
                 "price": "<h2><sup>$</sup>29</h2><span class='period'>/ month</span>",
                 "excerpt": "Free with 14 days trial, then you can choose plan",
-                "pricingList": ["3 Cleaners", "All House Cleaning", "All Rooms", "Equipment Cleaning"],
+                "pricingList": [
+                    "3 Cleaners",
+                    "All House Cleaning",
+                    "All Rooms",
+                    "Equipment Cleaning"
+                ],
                 "btnClassOption": "btn-theme btn-border active"
             },
             {
@@ -168,7 +191,13 @@
                 "title": "Ultimate",
                 "price": "<h2><sup>$</sup>99</h2><span class='period'>/ month</span>",
                 "excerpt": "Free with 14 days trial, then you can choose plan",
-                "pricingList": ["5 Cleaners", "All Office Cleaning", "All Rooms", "Equipments Cleaning", "Exterior Glasses"],
+                "pricingList": [
+                    "5 Cleaners",
+                    "All Office Cleaning",
+                    "All Rooms",
+                    "Equipments Cleaning",
+                    "Exterior Glasses"
+                ],
                 "btnClassOption": "btn-theme btn-border"
             }
         ]

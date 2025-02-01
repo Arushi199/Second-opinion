@@ -25,112 +25,52 @@ const Footer = () => {
                                 <ul className="widget-contact-info">
                                     <li className="info-address">
                                         <i className="icofont-location-pin"></i>
-                                        69 Halsey St, New York, Ny 10002, United
-                                        States.
+                                        Us
                                     </li>
                                     <li className="info-mail">
                                         <i className="icofont-email"></i>
                                         <a href="mailto://hello@yourdomain.com">
-                                            hello@yourdomain.com
+                                            secopp@yourdomain.com
                                         </a>
                                     </li>
                                     <li className="info-phone">
                                         <i className="icofont-ui-call"></i>
                                         <a href="tel://(0091)8547632521">
-                                            (0091) 8547 632521
+                                            (0091) 00000000000
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    {/* <div className="col-sm-6 col-md-6 offset-md-1 col-lg-3 offset-lg-0 col-xl-3 d-lg-none d-xl-block">
+                    <div className="col-sm-6 col-md-6 offset-md-1 col-lg-3 offset-lg-0 col-xl-3 d-lg-none d-xl-block">
                         <div className="widget-item d-inline-block">
-                            <h4 className="widget-title line-bottom">
-                                Popular Tags
-                            </h4>
+                            <h4 className="widget-title line-bottom">pages</h4>
                             <div className="widget-tags">
                                 <ul>
                                     <li>
-                                        <Link to="/">Amazing</Link>
+                                        <Link to="/">HomePage</Link>
                                     </li>
                                     <li>
-                                        <Link to="/">Envato</Link>
+                                        <Link to="/">ServicePage</Link>
                                     </li>
                                     <li>
-                                        <Link to="/">Themes</Link>
+                                        <Link to="/">blog</Link>
                                     </li>
                                     <li>
-                                        <Link to="/">Clean</Link>
+                                        <Link to="/">about</Link>
                                     </li>
                                     <li>
-                                        <Link to="/">Wordpress</Link>
+                                        <Link to="/">ContactPage</Link>
                                     </li>
                                     <li>
-                                        <Link to="/">Creative</Link>
+                                        <Link to="/">privacy policy</Link>
                                     </li>
                                     <li>
                                         <Link to="/">Mutilpurpose</Link>
                                     </li>
-                                    <li>
-                                        <Link to="/">Retina Ready</Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/">Twitter</Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/">Responsive</Link>
-                                    </li>
                                 </ul>
                             </div>
-                        </div>
-                    </div> */}
-                    <div className="col-sm-6 col-md-5 col-lg-4 col-xl-3">
-                        <div className="widget-item">
-                            <h4 className="widget-title line-bottom">FAQ</h4>
-                            <nav className="widget-posts">
-                                <ul className="posts-item">
-                                    <li>
-                                        <Link to="/">
-                                            <i className="icon icofont-rounded-double-right"></i>
-                                            What is Telehealth?
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/">
-                                            <i className="icon icofont-rounded-double-right"></i>
-                                            What are the benefits of seeking a
-                                            second opinion?
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/">
-                                            <i className="icon icofont-rounded-double-right"></i>
-                                            How are my appointments scheduled?
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/">
-                                            <i className="icon icofont-rounded-double-right"></i>
-                                            How do I pick my doctor?
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/">
-                                            <i className="icon icofont-rounded-double-right"></i>
-                                            How long does it take to get an
-                                            appointment?
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/">
-                                            <i className="icon icofont-rounded-double-right"></i>
-                                            Can I connect with SecondOpinion if
-                                            l am not in the United States?
-                                        </Link>
-                                    </li>
-                                </ul>
-                            </nav>
                         </div>
                     </div>
                     <div className="col-sm-6 col-md-6 offset-md-1 col-lg-4 offset-lg-0 col-xl-3">
@@ -147,28 +87,16 @@ const Footer = () => {
                             </div>
                             <div className="widget-social-icons">
                                 <SocialIcon
-                                    path="https://twitter.com/"
+                                    path="https://x.com/i/flow/login?redirect_after_login=%2Fsecopp_com"
                                     icon="icofont-twitter"
                                 />
                                 <SocialIcon
                                     path="https://myaccount.google.com/"
-                                    icon="icofont-google-plus"
+                                    icon="icofont-youtube"
                                 />
                                 <SocialIcon
-                                    path="https://www.pinterest.com/"
-                                    icon="icofont-pinterest"
-                                />
-                                <SocialIcon
-                                    path="https://rss.com/"
-                                    icon="icofont-rss"
-                                />
-                                <SocialIcon
-                                    path="https://www.facebook.com/"
+                                    path="https://www.facebook.com/facebook/"
                                     icon="icofont-facebook"
-                                />
-                                <SocialIcon
-                                    path="https://dribbble.com/"
-                                    icon="icofont-dribbble"
                                 />
                             </div>
                         </div>
@@ -181,18 +109,18 @@ const Footer = () => {
                         <div className="col-sm-12">
                             <div className="widget-copyright">
                                 <p>
-                                    &copy; 2024{" "}
+                                    @ 2025{" "}
                                     <span className="text-uppercase">
-                                        corcus
+                                        Secopp
                                     </span>
                                     . Made with{" "}
-                                    <i className="icofont-heart-alt"></i> by{" "}
+                                    <i className="icofont-heart-alt"></i>by{" "}
                                     <a
                                         target="_blank"
-                                        href="https://www.hasthemes.com"
+                                        href="https://corcusstudio.in/"
                                         rel="noreferrer"
                                     >
-                                        corcus theam
+                                        corcus team
                                     </a>
                                 </p>
                             </div>

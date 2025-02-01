@@ -17,8 +17,8 @@ const AboutPage = () => {
                     <div className="main-content site-wrapper-reveal">
                         <PageTitleContainer
                             image="img/photos/about-bg1.jpg"
-                            subTitle="Hope medical center"
-                            title="About <span>Hope</span>"
+                            subTitle="Second Opinion medical center"
+                            title="About <span>Second opinion</span>"
                         />
                         <AboutContainer />
                     </div>

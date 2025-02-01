@@ -20,7 +20,7 @@ const BlogAuthor = ({
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Hope – Blog Author" />
+                <SEO title="Second Opinion – Blog Author" />
                 <div className="wrapper">
                     <Header />
                     <div className="main-content site-wrapper-reveal">

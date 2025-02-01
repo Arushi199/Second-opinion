@@ -105,7 +105,7 @@ const ServiceDetailsContainer = ({ data }) => {
                                                 process.env.PUBLIC_URL +
                                                 "/img/photos/doctor-02.png"
                                             }
-                                            alt="hope"
+                                            alt="Second Opinion"
                                         />
                                     </div>
                                 </div>

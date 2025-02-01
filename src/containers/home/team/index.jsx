@@ -41,7 +41,7 @@ const TeamContainer = () => {
                     <div className="col-lg-12">
                         <SectionTitle
                             classOption="text-center"
-                            subTitle="Meet Our Docots"
+                            subTitle="Meet Our Doctors"
                             title="<span>Professional &amp;</span> Enthusiastic"
                         />
                     </div>

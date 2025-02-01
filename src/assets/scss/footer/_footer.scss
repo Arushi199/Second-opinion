@@ -5,7 +5,8 @@
 */
 
 .footer-area {
-  color: #00213e;
+  background-color: #00213e;
+  color: $white;
   padding: 125px 0 0;
   @media #{$lg-device} {
     padding: 90px 0 0;
@@ -18,7 +19,7 @@
   }
   &.border-top-style {
     &:before {
-      border-top: 1px solid #000000;
+      border-top: 1px solid #ffffff;
       content: "";
       left: 0;
       position: absolute;
@@ -27,10 +28,12 @@
     }
   }
   .widget-title {
-    font-size: 18px;
+    font-size: 20px;
+    color: #e1e1e1;
     font-weight: $font-weight-bold;
-    letter-spacing: -0.522px;
-    margin: 15px 0 70px;
+    letter-spacing: px;
+    margin: 70px 0 40px;
+    margin-left: 100px;
 
     @media (max-width: 767px) {
       margin: 15px 0 40px;
@@ -73,12 +76,12 @@
     margin-top: -6px;
     .posts-item {
       li {
-        border-bottom: 1px solid #e1e1e1;
+        border-bottom: 1px solid #ffffff;
         margin-bottom: 9px;
         padding-bottom: 11px;
         a {
           align-items: flex-end;
-          color: $body-color;
+          color: $white;
           display: flex;
           letter-spacing: 0;
           @media #{$sm-device} {
@@ -160,9 +163,9 @@
     }
   }
   .widget-newsletter {
-    border-bottom: 1px solid #e1e1e1;
+    border-bottom: 1px solid #ffffff;
     margin-top: -2px;
-    padding-bottom: 41px;
+    padding-bottom: px;
     @media #{$xs-device} {
       border-bottom: none;
       padding-bottom: 10px;
@@ -170,7 +173,7 @@
     p {
       letter-spacing: 0;
       line-height: 26px;
-      margin-bottom: 24px;
+      margin-bottom: 15px;
     }
     .newsletter-form {
       position: relative;
@@ -200,7 +203,7 @@
           }
         }
         .btn-theme {
-          background-color: #00213e;
+          background-color: #ff6a00;
           border-radius: 0;
           color: #00213e;
           height: 46px;
@@ -211,7 +214,7 @@
           }
           &:hover {
             background-color: $black;
-            border-color: $black;
+            border-color: #ff6a00;
             color: $white;
           }
         }
@@ -261,20 +264,20 @@
     }
     .widget-copyright {
       p {
-        color: $black-999;
+        color: $white;
         letter-spacing: 0;
         padding-top: 0;
         span {
-          color: $theme-color;
+          color: #ff6a00;
           font-weight: $font-weight-bold;
         }
         i {
-          color: #00213e;
+          color: #ff6a00;
           font-size: 16px;
           margin: 0 5px;
         }
         a {
-          color: $black;
+          color: $white;
           font-weight: $font-weight-medium;
         }
       }
