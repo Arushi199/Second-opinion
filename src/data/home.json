@@ -41,21 +41,21 @@
         "healthFeature": [
             {
                 "id": 1,
-                "icon": "/",
-                "title": "Diagnose",
-                "subTitle": "Examination & Diagnosis"
+                "icon": "icon icofont-world-alt",
+                "title": "20+",
+                "subTitle": "US-based Specialists"
             },
             {
                 "id": 2,
                 "icon": "icon icofont-brain-alt",
-                "title": "Treatment",
-                "subTitle": "Treatment of the disease"
+                "title": "15+",
+                "subTitle": "Average Years of Experience"
             },
             {
                 "id": 3,
                 "icon": "icon icofont-paralysis-disability",
-                "title": "Care Healthy",
-                "subTitle": "Care and recuperation"
+                "title": "24-48+",
+                "subTitle": "Hour Appointments"
             }
         ]
     },
