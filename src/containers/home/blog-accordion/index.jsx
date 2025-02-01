@@ -10,7 +10,7 @@ const BlogAccordion = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-6">
-                        <SectionTitle title="<span>Tips &amp;</span> Tricks" />
+                        <SectionTitle title="<span>Blogs</span>" />
                         <div
                             className="post-items-style1"
                             data-aos="fade-up"
