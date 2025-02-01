@@ -9,7 +9,7 @@ const MedicalFeatureContainer = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <SectionTitle
-                            subTitle="Why Choose Second OpinionMedical"
+                            subTitle="Why Choose Second Opinion Medical"
                             title="<span>The Best</span> For Your Health"
                         />
                     </div>
