@@ -30,7 +30,7 @@ const Header = () => {
     return (
         <Fragment>
             <header className="header">
-                <div className="header-top d-none d-lg-block">
+                {/* <div className="header-top d-none d-lg-block">
                     <div className="container">
                         <div className="row row-cols-2">
                             <div className="col">
@@ -76,7 +76,7 @@ const Header = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
                 <div className={`header-middle mobile-sticky`}>
                     <div className="container">
