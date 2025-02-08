@@ -15,7 +15,7 @@ const Footer = () => {
                                     classOption="footer-logo"
                                     image={`${process.env.PUBLIC_URL}/img/logo-dark.png`}
                                 />
-                                <p className="mb-0">
+                                {/* <p className="mb-0">
                                     SECOPP connects patients in India with a
                                     trusted network of top US medical
                                     professionals (cancer specialists &
@@ -39,7 +39,7 @@ const Footer = () => {
                                             (0091) 00000000000
                                         </a>
                                     </li>
-                                </ul>
+                                </ul> */}
                             </div>
                         </div>
                     </div>
@@ -75,16 +75,6 @@ const Footer = () => {
                     </div>
                     <div className="col-sm-6 col-md-6 offset-md-1 col-lg-4 offset-lg-0 col-xl-3">
                         <div className="widget-item">
-                            <h4 className="widget-title line-bottom">
-                                Newsletter
-                            </h4>
-                            <div className="widget-newsletter">
-                                <p>
-                                    Sign up for our mailing list to get latest
-                                    updates and offers.
-                                </p>
-                                <Newsletter mailchimpUrl="//devitems.us11.list-manage.com/subscribe/post?u=6bbb9b6f5827bd842d9640c82&amp;id=05d85f18ef" />
-                            </div>
                             <div className="widget-social-icons">
                                 <SocialIcon
                                     path="https://x.com/i/flow/login?redirect_after_login=%2Fsecopp_com"
@@ -113,7 +103,7 @@ const Footer = () => {
                                     <span className="text-uppercase">
                                         Secopp
                                     </span>
-                                    . Made with{" "}
+                                    {/* . Made with{" "}
                                     <i className="icofont-heart-alt"></i>by{" "}
                                     <a
                                         target="_blank"
@@ -121,7 +111,7 @@ const Footer = () => {
                                         rel="noreferrer"
                                     >
                                         corcus team
-                                    </a>
+                                    </a> */}
                                 </p>
                             </div>
                         </div>
