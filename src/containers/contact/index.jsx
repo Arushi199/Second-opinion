@@ -22,7 +22,7 @@ const ContactPageContainer = () => {
                             <SectionTitle
                                 classOption="text-center"
                                 subTitle="Contact"
-                                title="<span> We Always Ready</span> to Help Your"
+                                title="<span> We Alway Ready</span> To Help Your"
                             />
                             <ContactForm />
                         </div>
